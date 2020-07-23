@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="grll",
+    name="openne",
     url="https://github.com/yunchengwang/OpenNE",
     license="MIT",
     author="USCMCL",
     description="Forked from THUNLP OpenNE",
-    packages=find_packages('grll'),
+    packages=find_packages('openne'),
     long_description=open("../README.md").read(),
     zip_safe=False,
     setup_requires=[
