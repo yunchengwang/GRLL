@@ -1,4 +1,4 @@
-# GRLL
+# GRLL (Graph Representation Learning Library)
 
 This repository is forked from [OpenNE github repo](https://github.com/thunlp/OpenNE).
 
